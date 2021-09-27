@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaximeChG
+- 👋 Hi, I’m Maxime Chiasson-Gauvin
 - 👀 I’m interested in web development and game development
 - 🌱 I’m currently learning nodeJS 
 - 📫 How to reach me ... maxime.chiassongauvin@hotmail.com
